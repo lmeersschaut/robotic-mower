@@ -2,7 +2,9 @@
 I am building and programming a robotic lawn mower controlled by an Arduino Uno R4. To start with, the mower moves using ultrasonic sensors, if it detects an object it wil change route.
 The robot will be made of aluminium. It will be battery powered and i am reusing motors from a recycled robot.
 
-here is an extended descritption:
+
+
+here is an extended description:
 We start with 240V AC from the mains, which goes directly to the charging station. Inside the charging station, it is converted to a lower voltage (24V DC or 12V DC, depending on further research, such as the required motor power, battery specifications, and the availability of components).
 
 The charging station also serves as the base for transmitting the signal through the boundary wire.
